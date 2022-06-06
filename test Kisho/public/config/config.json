@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBFFD4b148b4dd74eF1afF02AAe53CC4BdDD9084b",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xBFFD4b148b4dd74eF1afF02AAe53CC4BdDD9084b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Kisho's Club",
+  "SYMBOL": "KSC",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kishos-club",
+  "SHOW_BACKGROUND": true
+}
